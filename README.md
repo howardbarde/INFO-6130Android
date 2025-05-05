@@ -8,5 +8,4 @@
 ## Project 1 = Flower shop with recycler view
 ## Project 2 = Fragments
 ## Project 3 = NASA app - API, MVVM
-## Project 4 = Local and instrumented tests
 
