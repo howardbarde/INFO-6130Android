@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab2Barde</string>
+    <string name="android_count">0</string>
+    <string name="ios_count">0</string>
+    <string name="question">What type of phone do you have?</string>
+    <string name="android">Android</string>
+    <string name="ios">IOS</string>
+    <string name="results">RESULTS</string>
+    <string name="title">Howard Barde INFO6124 Lab 2</string>
+    <string name="returnToMain">RETURN TO MAIN</string>
+</resources>

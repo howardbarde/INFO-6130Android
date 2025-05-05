@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="student_name">Howard Barde</string>
+    <string name="student_id">1016999</string>
+    <string name="flower_list">Flower list</string>
+    <string name="back">Back</string>
+    <string name="flower">Picture of a flower</string>
+    <string name="clickHere">Click here for more details</string>
+</resources>

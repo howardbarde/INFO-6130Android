@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab1-HowardBarde</string>
+    <string name="myName">Howard Barde</string>
+    <string name="question">What Country was I born in?</string>
+    <string name="answer">Philippines</string>
+    <string name="showAnswer">Show Answer</string>
+</resources>
